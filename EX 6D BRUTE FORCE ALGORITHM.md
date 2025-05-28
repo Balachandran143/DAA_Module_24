@@ -3,23 +3,6 @@
 ## AIM:
 To write a python program using brute force method of searching for the given substring in the main string.
 
-
-
-
-## Algorithm
-1. 
-2. 
-3. 
-4.  
-5.   
-
-## Program:
-```
-/*# EX 6D BRUTE FORCE ALGORITHM
-## DATE:
-## AIM:
-To write a python program using brute force method of searching for the given substring in the main string.
-
 ## Algorithm
 1. Take two input strings: the main string and the substring to search.
 2. Determine the lengths of both strings.
@@ -52,20 +35,6 @@ str2=input()
 ## Output:
 
 ![image](https://github.com/user-attachments/assets/cff954c4-4f32-4345-8d84-45ea00afe04e)
-
-## Result:
-Thus the above program was executed successfully for searching the substring at respective index.
-To implement the program using brute force method of searching for the given substring in the main string.
-
-
-Developed by: 
-Register Number:  
-*/
-```
-
-## Output:
-
-
 
 ## Result:
 Thus the above program was executed successfully for searching the substring at respective index.
